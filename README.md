@@ -1,8 +1,6 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-###
 
 <div align="center">
   <a href="www.linkedin.com/in/vihanga-kalansooriya-438378204" target="_blank">
@@ -10,9 +8,9 @@
   </a>
 </div>
 
-###
 
-<h1 align="center">hey there 👋</h1>
+
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
@@ -20,7 +18,12 @@
 
 ###
 
-<p align="left">I'm Vihanga Kalansooriya from Sri Lanka<br><br>- 🔭 I’m working as Developer.<br>- 📚 I'm currently learning mobile app development.<br>- ⚡ In my free time I learning IT</p>
+<p align="left">
+  I'm Vihanga Kalansooriya from Sri Lanka<br><br>
+  - 🔭 I’m working as Developer at <a href="https://www.mypos.lk/24x7retail" target="_blank">24x7 Retail Software Solutions</a>.<br>
+  - 📚 I'm currently learning mobile app development.<br>
+  - ⚡ In my free time I learning IT
+</p>
 
 ###
 
@@ -47,5 +50,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+| 
+<a href="https://github.com/VihangaKalansooriya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ###

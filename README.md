@@ -20,7 +20,7 @@
 
 <p align="left">
   I'm Vihanga Kalansooriya from Sri Lanka<br><br>
-  - 🔭 I’m working as Developer at <a href="https://www.mypos.lk/24x7retail" target="_blank">24x7 Retail Software Solutions</a>.<br>
+  - 🔭 I’m working as Associate Software Engineer at <a href="https://www.mypos.lk/24x7retail" target="_blank">24x7 Retail Software Solutions</a>.<br>
   - 📚 I'm currently learning mobile app development.<br>
   - ⚡ In my free time I learning IT
 </p>
